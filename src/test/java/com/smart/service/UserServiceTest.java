@@ -14,6 +14,7 @@ public class UserServiceTest extends AbstractTransactionalTestNGSpringContextTes
 
     private UserService userService;
 
+
     @Autowired
     public void setUserService(UserService userService)
     {
