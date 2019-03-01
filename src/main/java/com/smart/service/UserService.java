@@ -46,5 +46,4 @@ public class UserService {
     public void setLoginLogDao(LoginLogDao loginLogDao) {
         this.loginLogDao = loginLogDao;
     }
-
 }
